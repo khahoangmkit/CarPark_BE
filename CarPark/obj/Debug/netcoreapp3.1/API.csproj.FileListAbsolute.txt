@@ -137,7 +137,6 @@ C:/Users/khaho/source/repos/CarPark/CarPark/bin/Debug/netcoreapp3.1/Model.pdb
 /home/hoangdk/RiderProjects/CarPark/CarPark/obj/Debug/netcoreapp3.1/API.csproj.CoreCompileInputs.cache
 /home/hoangdk/RiderProjects/CarPark/CarPark/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cache
 /home/hoangdk/RiderProjects/CarPark/CarPark/obj/Debug/netcoreapp3.1/API.RazorTargetAssemblyInfo.cache
-/home/hoangdk/RiderProjects/CarPark/CarPark/obj/Debug/netcoreapp3.1/API.csproj.CopyComplete
 /home/hoangdk/RiderProjects/CarPark/CarPark/obj/Debug/netcoreapp3.1/API.dll
 /home/hoangdk/RiderProjects/CarPark/CarPark/obj/Debug/netcoreapp3.1/API.pdb
 /home/hoangdk/RiderProjects/CarPark/CarPark/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
@@ -159,3 +158,4 @@ C:/Users/khaho/source/repos/CarPark/CarPark/bin/Debug/netcoreapp3.1/Model.pdb
 /home/hoangdk/RiderProjects/CarPark/CarPark/obj/Debug/netcoreapp3.1/API.RazorAssemblyInfo.cs
 /home/hoangdk/RiderProjects/CarPark/CarPark/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /home/hoangdk/RiderProjects/CarPark/CarPark/bin/Debug/netcoreapp3.1/System.Web.Http.Common.dll
+/home/hoangdk/RiderProjects/CarPark/CarPark/bin/Debug/netcoreapp3.1/BCrypt.Net-Next.dll

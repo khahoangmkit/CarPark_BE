@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ScyEtqyXxw52dOLPAxVXw4PcvV4t4I7kORolhzhMJJx0TaNHihDSPFi/wULAibk0FRWp8XHG4gl0XckrBtul/w==",
+  "dgSpecHash": "hhmFsI8eNcUZ2s46tcFU7Ijr8c5hLK8WJVnAqonFEyS7ZUtMckVoZd4V8/nJizEb3JRtoot4phTnpQnHdw6UYA==",
   "success": true,
   "projectFilePath": "/home/hoangdk/RiderProjects/CarPark/CarPark/API.csproj",
   "expectedPackageFiles": [
+    "/home/hoangdk/.nuget/packages/bcrypt.net-next/4.0.2/bcrypt.net-next.4.0.2.nupkg.sha512",
     "/home/hoangdk/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/hoangdk/.nuget/packages/microsoft.aspnetcore.antiforgery/2.2.0/microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "/home/hoangdk/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
@@ -212,8 +213,7 @@
     "/home/hoangdk/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/home/hoangdk/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "/home/hoangdk/.nuget/packages/system.xml.xpath/4.3.0/system.xml.xpath.4.3.0.nupkg.sha512",
-    "/home/hoangdk/.nuget/packages/system.xml.xpath.xdocument/4.3.0/system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
-    "/home/hoangdk/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.19/microsoft.netcore.app.host.linux-x64.3.1.19.nupkg.sha512"
+    "/home/hoangdk/.nuget/packages/system.xml.xpath.xdocument/4.3.0/system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": [
     {

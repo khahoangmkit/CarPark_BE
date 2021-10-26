@@ -33,7 +33,8 @@ namespace API.Controllers
         [HttpPost]
         public async Task<IActionResult> AddEmployee(Employee employee)
         {
-            await _employeeService.CreateEmployee(employee).ConfigureAwait(false);
+            var result = await _employeeService.CreateEmployee(employee).ConfigureAwait(false);
+            if (result == null) return BadRequest();
             return Ok(employee);
         }
 

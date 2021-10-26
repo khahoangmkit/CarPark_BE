@@ -21,6 +21,5 @@ C:/Users/khaho/source/repos/CarPark/Service/obj/Debug/netcoreapp3.1/Service.cspr
 /home/hoangdk/RiderProjects/CarPark/Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfoInputs.cache
 /home/hoangdk/RiderProjects/CarPark/Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfo.cs
 /home/hoangdk/RiderProjects/CarPark/Service/obj/Debug/netcoreapp3.1/Service.csproj.CoreCompileInputs.cache
-/home/hoangdk/RiderProjects/CarPark/Service/obj/Debug/netcoreapp3.1/Service.csproj.CopyComplete
 /home/hoangdk/RiderProjects/CarPark/Service/obj/Debug/netcoreapp3.1/Service.dll
 /home/hoangdk/RiderProjects/CarPark/Service/obj/Debug/netcoreapp3.1/Service.pdb

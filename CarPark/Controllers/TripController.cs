@@ -1,6 +1,7 @@
 using System;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Model.DBContext;
 using Model.Entity;
@@ -8,6 +9,7 @@ using Service1.Interface;
 
 namespace API.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("[Controller]/[action]")]
     public class TripController : ControllerBase

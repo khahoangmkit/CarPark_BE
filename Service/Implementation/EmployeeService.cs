@@ -1,11 +1,13 @@
 ﻿using Service1.Interface;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Model.Entity;
 using Model.Repository;
+using BC = BCrypt.Net;
 
 namespace Service1.Implementation
 {
@@ -18,9 +20,13 @@ namespace Service1.Implementation
             _employeeRepository = emmplEmployeeRepository;
         }
 
-        public async Task CreateEmployee(Employee employee)
+        public async Task<Employee> CreateEmployee(Employee employee)
         {
+            var _employeeTemp = _employeeRepository.FindByCondition(e => e.Account == employee.Account).FirstOrDefault();
+            if (_employeeTemp != null ) return null;
+            employee.Password = BC.BCrypt.HashPassword(employee.Password);
             await _employeeRepository.Create(employee).ConfigureAwait(false);
+            return employee;
         }
 
         public async Task<string> DeleteEmployee(int employeeId)
